@@ -1,8 +1,10 @@
-import '../App.css';
-
+import '../styles/App.css';
+import Navigation from './Navigation';
 function App() {
     return (
-        <h1>Hello world</h1>
+        <div className={"App"}>
+            <Navigation />
+        </div>
     )
 }
 
