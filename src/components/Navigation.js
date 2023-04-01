@@ -1,6 +1,7 @@
 import "../styles/navigation.css";
 import logo from  "../images/logo.png";
 import searchIcon from "../images/searchIcon.png";
+import Menu from "./Menu";
 
 function Navigation(){
     return(
@@ -11,6 +12,7 @@ function Navigation(){
                     <img src={searchIcon} alt="Search Icon" className="search-icon"/>
                     <span className="search-text">Search</span>
                 </div>
+                <Menu />
             </div>
         </div>
     )
