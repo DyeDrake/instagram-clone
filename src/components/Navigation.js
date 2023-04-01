@@ -1,7 +1,8 @@
-import "../styles/navigation.css";
+import "../styles/navigation.scss";
 import logo from  "../images/logo.png";
 import searchIcon from "../images/searchIcon.png";
 import Menu from "./Menu";
+
 
 function Navigation(){
     return(
