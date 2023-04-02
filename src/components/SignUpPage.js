@@ -4,7 +4,7 @@ import instagramLogoImage from "../assets/instagram-logo.png";
 import googleImage from '../assets/google-icon.png';
 import facebookImage from "../assets/facebookicon.svg";
 
-const SignUp = () => {
+const SignUpPage = () => {
   return (
    <div className="signUp-container">
   <div className="box-1">
@@ -65,5 +65,5 @@ const SignUp = () => {
     );
 };
 
-export default SignUp;
+export default SignUpPage;
 
