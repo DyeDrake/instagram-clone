@@ -1,11 +1,11 @@
-import '../styles/App.scss';
+import '../styles/landingPage.scss';
 import Navigation from './Navigation';
 import Cards from './Cards'
 import Sidebar from './Sidebar'
 
-function App() {
+function LandingPage() {
     return (
-        <div className={"App"}>
+        <div className={"LandingPage"}>
             <Navigation />
             <main>
                 <div className="container">
@@ -17,4 +17,4 @@ function App() {
     )
 }
 
-export default App;
+export default LandingPage;

@@ -1,6 +1,6 @@
 import "../styles/navigation.scss";
-import logo from  "../images/logo.png";
-import searchIcon from "../images/searchIcon.png";
+import logo from "../assets/logo.png";
+import searchIcon from "../assets/searchIcon.png";
 import Menu from "./Menu";
 
 
