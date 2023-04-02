@@ -1,7 +1,7 @@
-import './App.css';
+import './styles/greet.css';
 import Greet from './components/Greet'
 
-function App() {
+function LoginPage() {
   return (
  <body>
     <Greet/>
@@ -9,4 +9,4 @@ function App() {
   );
 }
 
-export default App;
+export default LoginPage;
