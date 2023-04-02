@@ -7,10 +7,10 @@ import image from "../images/profileImage.jpg";
 function Sidebar(){
     return(
             <sticky topOffset={-80}>
-                <div className="sidebar">
+                <div id="sidebar" className="sidebar">
                     <Profile
-                        username="wendy m.A D."
-                        caption="Wendy M. A. Darling"
+                        username="naspaj j."
+                        caption="Jane Padi"
                         urlText="switch"
                         iconSize="large"
                         image={image}/>
