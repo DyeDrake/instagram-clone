@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import SignUpPage from './SignUpPage';
+import SignUpPage from './components/SignUpPage';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
