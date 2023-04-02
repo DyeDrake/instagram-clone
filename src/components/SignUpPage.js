@@ -3,6 +3,7 @@ import microsoftImage from "../assets/microsoft-icon.png";
 import instagramLogoImage from "../assets/instagram-logo.png";
 import googleImage from '../assets/google-icon.png';
 import facebookImage from "../assets/facebookicon.svg";
+import "../styles/signUpPage.css";
 
 const SignUpPage = () => {
   return (
